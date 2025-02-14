@@ -1,0 +1,4 @@
+# compare 
+matches = difflib.SequenceMatcher( 
+    None, para1, para2).get_matching_blocks() 
+  

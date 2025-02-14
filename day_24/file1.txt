@@ -1,0 +1,6 @@
+# compare 
+matches = difflib.SequenceMatcher( 
+    None, para1, para2).get_matching_blocks() 
+  
+for ele in matches: 
+    print(para1[ele.a:ele.a + ele.size])
