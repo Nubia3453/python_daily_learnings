@@ -1,0 +1,51 @@
+Roll No,Student Name,Language1,Language2,Language3,Total
+1, Nicholas Daniel, 66, 78, 51, 195
+2, Mrs. Stephanie Brown, 53, 71, 95, 219
+3, Christine Lane, 80, 51, 75, 206
+4, Spencer Gibson PhD, 61, 74, 67, 202
+5, Ms. Nancy Johnson, 53, 55, 80, 188
+6, Alison Campbell, 56, 66, 72, 194
+7, Valerie Patel, 88, 57, 84, 229
+8, Kimberly Whitaker, 66, 54, 96, 216
+9, Michael Bradley, 80, 82, 62, 224
+10, Mark Williams, 97, 92, 98, 287
+11, Kimberly Li, 86, 77, 68, 231
+12, George Greene, 55, 75, 74, 204
+13, Heather Cochran, 85, 56, 64, 205
+14, Joel Morris, 59, 86, 73, 218
+15, Paige Bradley, 83, 68, 78, 229
+16, Shelley Peterson, 67, 81, 50, 198
+17, Eric Thompson, 71, 70, 72, 213
+18, Brandon Smith, 56, 67, 95, 218
+19, Paul Bryant, 67, 64, 93, 224
+20, Cody Hebert Jr., 56, 89, 74, 219
+21, Taylor Morris, 55, 53, 78, 186
+22, Jeremy Keller, 86, 85, 93, 264
+23, Danielle Nelson, 83, 92, 80, 255
+24, Dawn Fox, 79, 99, 80, 258
+25, Meredith Ellis, 53, 65, 72, 190
+26, Nicole Martinez, 60, 56, 92, 208
+27, Vanessa Martinez, 63, 64, 66, 193
+28, Jenna Salas, 98, 74, 58, 230
+29, Dana Garcia, 69, 85, 81, 235
+30, Tara Curtis, 51, 92, 69, 212
+31, Scott Hutchinson, 56, 81, 71, 208
+32, Joseph Jimenez, 57, 96, 88, 241
+33, Julie Weber, 98, 52, 61, 211
+34, Mr. Bradley Johnson, 67, 71, 93, 231
+35, Melissa Morgan, 60, 93, 54, 207
+36, Sabrina James, 64, 58, 81, 203
+37, David Bennett, 51, 80, 73, 204
+38, Nathan Nelson, 77, 70, 81, 228
+39, Joshua Richardson, 82, 74, 56, 212
+40, John Schultz, 56, 69, 55, 180
+41, Ryan Trujillo, 62, 88, 62, 212
+42, Shawn Jennings, 84, 83, 56, 223
+43, Anthony Newton, 89, 99, 96, 284
+44, Joshua Dyer, 70, 95, 79, 244
+45, Anthony Kim, 59, 75, 85, 219
+46, Steven Richardson, 74, 86, 52, 212
+47, Nancy Lucas, 63, 70, 62, 195
+48, Jesus Brown, 58, 94, 64, 216
+49, Jessica Liu, 52, 51, 76, 179
+50, Cassandra Fleming, 72, 87, 99, 258
