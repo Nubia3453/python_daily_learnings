@@ -1,0 +1,5 @@
+file=open ("logs.txt", "a")
+# file.write("\n")
+# file.write(message)
+# file.write("\n")
+# file.write(str(num//2))
